@@ -1,5 +1,4 @@
 ---
-"@gradio/core": patch
 "@gradio/dataset": patch
 "gradio": patch
 ---
