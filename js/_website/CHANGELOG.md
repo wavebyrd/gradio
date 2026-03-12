@@ -1,5 +1,11 @@
 # website
 
+## 0.72.1
+
+### Features
+
+- [#12976](https://github.com/gradio-app/gradio/pull/12976) [`7fb33fc`](https://github.com/gradio-app/gradio/commit/7fb33fc3b80b421817c1d1ddea19c8858a9f2924) - Add sidebar to the right guides.  Thanks @freddyaboulton!
+
 ## 0.72.0
 
 ### Features

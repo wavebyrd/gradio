@@ -1,5 +1,11 @@
 # gradio
 
+## 6.9.1
+
+### Fixes
+
+- [#12994](https://github.com/gradio-app/gradio/pull/12994) [`7874d04`](https://github.com/gradio-app/gradio/commit/7874d0411c81dcde9c4b08e7e064ca0dbef94e2e) - Fix dropdown detaching from input on scroll.  Thanks @hysts!
+
 ## 6.9.0
 
 ### Features
